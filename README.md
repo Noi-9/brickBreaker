@@ -22,11 +22,12 @@ if(ballRect.intersects(brickRect)) {
 *Outbut*
 -If you lose, you will get this result
 
-![GameOver](https://user-images.githubusercontent.com/95036158/143690882-f119ee5e-61fe-4628-b99c-c539cc7c4ab8.jpg)
+
+![gOver](https://user-images.githubusercontent.com/95036158/143718794-c231c204-12ea-41bb-9192-829f3b82b705.jpg)
 
 And if you win, you will get this result
+![Won2](https://user-images.githubusercontent.com/95036158/143718807-cfee95d0-8d37-4bf9-93ff-d539b40c2102.jpg)
 
-![YouWin](https://user-images.githubusercontent.com/95036158/143690993-5016091a-4bca-4045-b2d6-56d3790ff954.jpg)
 
 -Vedio from this game:
 
