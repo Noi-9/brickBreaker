@@ -29,7 +29,7 @@ public class MapGenerator {
           
           //map border of bricks
           g.setStroke(new BasicStroke(3));
-          g.setColor(Color.gray);
+          g.setColor(Color.black);
           g.drawRect(j*brickwidth +80, i*brickheight + 50, brickwidth, brickheight);
           
         }
