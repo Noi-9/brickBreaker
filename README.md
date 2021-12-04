@@ -16,6 +16,12 @@ if(ballRect.intersects(brickRect)) {
                             totalBricks--;
                             score +=5;
 ```
+* You can change the color of the background as you like via [THIS CODE](https://github.com/Noi-9/brickBreaker/blob/main/Gameplay.java)
+```java
+    //background
+    g.setColor(Color.black);
+
+```
 *Refrences*
 -
 -
