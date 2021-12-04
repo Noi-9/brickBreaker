@@ -8,7 +8,7 @@ So that every time the breaker passes through the bricks it crashes .*
 
 How we Control this game?
 * You can control the protection of the ball from falling to the ground
-To move it you can use -> to right and <- to left
+To move it you can use -> arrow to right and <- arrow to left
 * You can change the result increment each time via [THIS CODE](https://github.com/Noi-9/brickBreaker/blob/main/Gameplay.java)
 ```java
 if(ballRect.intersects(brickRect)) {
