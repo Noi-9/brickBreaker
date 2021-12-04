@@ -38,6 +38,13 @@ if(ballRect.intersects(brickRect)) {
 map = new MapGenerator(3,7);
 
 ```
+* You can change width and higtht of the bricks via [THIS CODE](https://github.com/Noi-9/brickBreaker/blob/main/MapGenerator.java)
+```java
+
+    brickwidth = 540/col;
+    brickheight = 150/row; 
+
+```
 *Refrences*
 -
 -
