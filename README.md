@@ -33,6 +33,11 @@ if(ballRect.intersects(brickRect)) {
 
 
 ```
+* You can change numbers of bricks shown "as (row,column)" via [THIS CODE](https://github.com/Noi-9/brickBreaker/blob/main/Gameplay.java)
+```java
+map = new MapGenerator(3,7);
+
+```
 *Refrences*
 -
 -
